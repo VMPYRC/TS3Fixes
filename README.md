@@ -59,3 +59,40 @@
 + BadPhotoChance = 0
 + Dropa Stones fix
 + Theatre fix
+
+## RecipeMasterList_Expanded
+
++ All Meals are available for Breakfast, Brunch, Lunch, and Dinner
++ Ambrosia can be a Group Serving
++ These are Desserts:
+  + BakedAngelFoodCake
+  + BellagianWaffles
+  + BrownieCaramel
+  + BrownieChocolate
+  + Cake
+  + Cake Slice
+  + CakeChocolate
+  + CakeVanilla
+  + CheesePlate
+  + ChocolateMiniGnome
+  + Cobbler
+  + CookieChocolate
+  + Cookies
+  + CookieSugar
+  + Crepe
+  + CupcakeChocolate
+  + CupcakeVanilla
+  + FrenchToast
+  + FriedPeanutButterBanana
+  + FruitParfait
+  + KeyLimePie
+  + Muffin
+  + MuffinBlueberry
+  + MuffinVanilla
+  + Pancakes
+  + PeanutButterAndJelly
+  + Pie
+  + PumpkinPie
+  + SphereOfDestiny
+  + Wedding Cake
+  + Wedding Cake Slice
