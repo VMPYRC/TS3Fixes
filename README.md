@@ -11,9 +11,9 @@
 4. Move to your Mods folder
 5. Play. Enjoy. Report issues [here](https://github.com/VMPYRC/TS3Fixes/issues)
 
-## Versions, alphabetically
+# Changes
 
-### AcademicDegrees_Expanded
+## AcademicDegrees_Expanded
 
 + SkillsThatGrantXP = 0.01
 + Business
@@ -41,6 +41,6 @@
   + Beneficial Traits -- Added BotFan, Brave, ComputerWhiz, Daredevil, Eccentric, Good, Handy, NoSenseOfHumor, Workaholic
   + SkillsThatGrantXP -- Added BotBuilding, Hacking, VideoGame
 
-### AutoVenuePlacement_Disabled
+## AutoVenuePlacement_Disabled
 
 + Disabled the Auto Venue Placement that occurs when starting a new save game with specific worlds / expansions
