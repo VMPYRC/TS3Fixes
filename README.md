@@ -44,3 +44,7 @@
 ## AutoVenuePlacement_Disabled
 
 + Disabled the Auto Venue Placement that occurs when starting a new save game with specific worlds / expansions
+
+## Books_AddedEP11
+
++ Added CodeVersion = EP11
