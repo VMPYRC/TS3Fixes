@@ -88,6 +88,8 @@
     + EP11_Skill_Harp01 to EP11_Skill_Harp05
     + EP11_Misc_Future01 to EP11_Misc_Future07
 + TargetInteractionLength = 1
++ TargetInteractionStartTime = 12:00AM
++ TargetInteractionEndTime = 11:59PM
 
 ## Photography_Fixed
 
