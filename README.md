@@ -53,3 +53,9 @@
 
 + MinTime = 1
 + MaxTime = 2
+
+## Photography_Fixed
+
++ BadPhotoChance = 0
++ Dropa Stones fix
++ Theatre fix
