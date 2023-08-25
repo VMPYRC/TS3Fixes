@@ -49,6 +49,11 @@
 
 + Added CodeVersion = EP11
 
+## Careers_Fast
+
++ DayLength = 0.5
++ DowntownDayLength = 0.5
+
 ## Inventing_Fast
 
 + MinTime = 1
