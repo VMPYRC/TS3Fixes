@@ -91,7 +91,7 @@
     + EP1_CareerMilitary_LearnMartialArts
     + EP1_CareerPolice_LearnMartialArts
     + EP1_CareerPolice_LearnPhotography
-+ Skill Challenge -- Laser Harp Star
++ Skill Challenge -- Laser Harp Star / Laser Rhythm-A-Con Star
   + Added monetary values of 1,000 or 500 Simoleons
   + TargetInteractionLength = 1
 
