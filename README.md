@@ -48,3 +48,8 @@
 ## Books_AddedEP11
 
 + Added CodeVersion = EP11
+
+## Inventing_Fast
+
++ MinTime = 1
++ MaxTime = 2
