@@ -76,24 +76,18 @@
 + MinTime = 1
 + MaxTime = 2
 
-## Opportunities_Easy_NonRepeatable
+## Opportunities_Easy
 
-+ Career Requirements = 1,MaxNumber
 + ChanceToGetOnPhone = 5
-+ Removed all RepeatLevel = Always
-  + Except for OncePerHousehold (Unchanged)
-+ Replaced Celebrity Requirements to 0,5
-+ Skill Requirements = 0,MaxNumber
-  + EXCEPT THESE, WHICH ARE -1,0
-    + EP1_CareerAthletic_LearnMartialArts
-    + EP1_CareerCriminal_LearnMartialArts
-    + EP1_CareerJournalism_LearnPhotography
-    + EP1_CareerMilitary_LearnMartialArts
-    + EP1_CareerPolice_LearnMartialArts
-    + EP1_CareerPolice_LearnPhotography
-+ Skill Challenge -- Laser Harp Star / Laser Rhythm-A-Con Star
-  + Added monetary values of 1,000 or 500 Simoleons
-  + TargetInteractionLength = 1
++ Requirements
+  + Career = 1,MaxNumber
+  + Celebrity = 0,5
+  + Skill = -1/0/1,MaxNumber
++ Rewards -- Money,500
+  + Fixes Laser-Rhythm-a-Con Star (Skill Challenge)
+    + EP11_Skill_Harp01 to EP11_Skill_Harp05
+    + EP11_Misc_Future01 to EP11_Misc_Future07
++ TargetInteractionLength = 1
 
 ## Photography_Fixed
 
