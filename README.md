@@ -54,6 +54,16 @@
 + DayLength = 0.5
 + DowntownDayLength = 0.5
 
+## Fishing_Easy
+
++ AvgLength = 1
++ CanBuyFromStore = True
++ GlobalSpawner
+  + Probability = 100, None = 1
++ Spawner
+  + ActiveProbability = 100, None = 1
+  + InactiveProbability = 100, None = 1
+
 ## Inventing_Fast
 
 + MinTime = 1
