@@ -51,7 +51,10 @@
 
 ## CASCameras_Expanded
 
-+ -
+1. Go to this [commit](https://github.com/VMPYRC/TS3Fixes/commit/4f57d42f38897ad548ce2b233fc442d56cdc1564)
+2. Click "Load Diff" for the .ini files
+3. View changes
+4. TLDR: Better CASCamera
 
 ## Careers_Fast
 
